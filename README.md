@@ -183,13 +183,23 @@ Adhering to Ethical Standards:
 # References:
 
 Pressman, R. S. (2014). Software Engineering: A Practitioner’s Approach (8th ed.). McGraw-Hill Education.
+
 Sommerville, I. (2016). Software Engineering (10th ed.). Pearson.
+
 Larman, C., & Basili, V. R. (2003). “Iterative and Incremental Development: A Brief History.” IEEE Computer, 36(6), 47-56.
+
 Royce, W. W. (1970). “Managing the Development of Large Software Systems.” Proceedings of IEEE WESCON, 1-9.
+
 Wiegers, K. E. (2003). Software Requirements (2nd ed.). Microsoft Press.
+
 Martin, R. C. (2000). Design Principles and Design Patterns. Object Mentor.
+
 Myers, G. J., Sandler, C., & Badgett, T. (2011). The Art of Software Testing (3rd ed.). Wiley.
+
 Loeliger, J., & McCullough, M. (2012). Version Control with Git (2nd ed.). O’Reilly Media.
+
 Royce, W. W. (1998). “Software Project Management: A Unified Framework.” Addison-Wesley.
+
 Lehman, M. M., & Belady, L. A. (1985). “Programs, Life Cycles, and Laws of Software Evolution.” Proceedings of the IEEE, 68(9), 1060-1076.
+
 Gotterbarn, D. (1991). “Software Engineering Code of Ethics.” ACM SIGSOFT Software Engineering Notes, 16(4), 16-19.
